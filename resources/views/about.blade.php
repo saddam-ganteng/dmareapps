@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse " id="navbarNav">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="about">About</a>
+                  <a class="nav-link" href="about">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="experience">Experience </a>
@@ -36,9 +36,9 @@
         </p>   
          <div class="" style="text-align:center;">
             <h3 class="">Kontak Saya</h3>
-            <img src="{{ ('icon/github.png') }}" >  <a href="#">Git Hub </a>
-                <a href="#">Telegram</a>
-                <a href="#">Facebook</a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Git Hub </a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Telegram</a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Facebook</a>
         </div>
     </div>
    

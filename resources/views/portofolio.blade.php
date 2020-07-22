@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse " id="navbarNav">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="about">About</a>
+                  <a class="nav-link" href="about">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="experience">Experience </a>
@@ -30,35 +30,18 @@
 
     <div class="container p-4" style="background-color: white">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded mx-auto d-block" alt="...">
-        <h2 class="mx-auto mt-4" style="width:33%;">Saya Saddam Dermawan</h2>
+        <h2 class="mt-4" style="text-align:center;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
-            Sudah 2 tahun saya menjadi codel, <br> Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
-        </p>
-        
-        <div class="row">
-        <div class="col-md-8">
-            <div class="posts">
-                <h2 class="title-post">About</h2>
-               
-                <div class="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
-                </div>
-            </div>
-         </div>
-         <div class="col-md-4 ">
-            <h3 class="widget-title">Kontak Saya</h3>
-            <ul>
-                <li><a href="#">Lorem Ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque nobis, error in numquam quas inventore maxime exercitationem ipsum optio, quidem eos sapiente cum dolorum, impedit ut rerum fugiat porro distinctio!</a></li>
-                <li><a href="#">Lorem Ipsum</a></li>
-                <li><a href="#">Lorem Ipsum</a></li>
-                <li><a href="#">Lorem Ipsum</a></li>
-                <li><a href="#">Lorem Ipsum</a></li>
-            </ul>
-        </div>
+            Sudah 2 tahun saya menjadi codel, <br>  Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
+        </p>   
+         <div class="" style="text-align:center;">
+            <h3 class="">Kontak Saya</h3>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Git Hub </a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Telegram</a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Facebook</a>
         </div>
     </div>
+   
 
     
 </body>

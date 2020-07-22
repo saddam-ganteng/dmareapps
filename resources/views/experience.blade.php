@@ -32,11 +32,11 @@
         <div class="col-md-18">
             <article class="posts">
                 <h2 class="title-post">Experience</h2>
-               
                 <div class="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis nisi veniam quibusdam amet, odit, odio consectetur ratione quod, cupiditate repellendus voluptatum. Laudantium tempora, neque quo ex aspernatur veritatis sequi incidunt.</p>
+                    <div class="progress ">
+                      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+                    </div>
+                    
                 </div>
             </article>
          </div>
