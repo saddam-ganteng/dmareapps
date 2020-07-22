@@ -32,22 +32,14 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded mx-auto d-block" alt="...">
         <h2 class="mt-4" style="text-align:center;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
-            Sudah 2 tahun saya menjadi codel, <br> Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
-        </p>
-        
-        
-        
+            Sudah 2 tahun saya menjadi codel, <br>  Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
+        </p>   
          <div class="" style="text-align:center;">
-            <h3 class="widget-title">Kontak Saya</h3>
-            <ul>
-            <a href="#">Lorem Ipsum </a>
-            <a href="#">Lorem Ipsum</a>
-            <a href="#">Lorem Ipsum</a>
-            <a href="#">Lorem Ipsum</a>
-            <a href="#">Lorem Ipsum</a>
-            </ul>
+            <h3 class="">Kontak Saya</h3>
+            <img src="{{ ('icon/github.png') }}" >  <a href="#">Git Hub </a>
+                <a href="#">Telegram</a>
+                <a href="#">Facebook</a>
         </div>
-
     </div>
    
 
