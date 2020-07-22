@@ -37,8 +37,8 @@
          <div class="" style="text-align:center;">
             <h3 class="">Kontak Saya</h3>
             <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Git Hub </a>
-            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Telegram</a>
-            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Facebook</a>
+            <img src="{{ ('assets/icon/tele.png') }}" width="25px">  <a href="#">Telegram</a>
+            <img src="{{ ('assets/icon/fb.png') }}" width="25px">  <a href="#">Facebook</a>
         </div>
     </div>
    
