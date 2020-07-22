@@ -29,12 +29,12 @@
     </div>
 
     <div class="container p-4" style="background-color: white">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded mx-auto d-block" alt="...">
+        <img src="{{ ('assets/img/fotodiri.jpeg') }}" width="400px" class="rounded mx-auto d-block" alt="...">
         <h2 class="mt-4" style="text-align:center;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
             Sudah 2 tahun saya menjadi codel, <br>  Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
         </p>   
-         <div class="" style="text-align:center;">
+         <div class="m-5" style="text-align:center;">
             <h3 class="">Kontak Saya</h3>
             <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Git Hub </a>
             <img src="{{ ('assets/icon/tele.png') }}" width="25px">  <a href="#">Telegram</a>
@@ -42,7 +42,11 @@
         </div>
     </div>
    
-
+    <div class="card mt-4">
+      <div class="card-header" style="text-align:center;">
+        &copy;dmare
+      </div>
+    </div>
     
 </body>
 </html>
