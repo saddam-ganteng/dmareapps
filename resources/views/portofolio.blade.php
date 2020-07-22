@@ -32,7 +32,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded mx-auto d-block" alt="...">
         <h2 class="mx-auto mt-4" style="width:33%;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
-            Sudah 2 tahun saya menjadi codel, <br> Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop dengan Java
+            Sudah 2 tahun saya menjadi codel, <br> Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
         </p>
         
         <div class="row">
