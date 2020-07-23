@@ -9,7 +9,7 @@
 </head>
 <body style=" background-color: #e5e5e5;">
     <div class="jumbotron pt-4 pb-4">
-        <h1 class="display-6">Dmareapps</h1>
+      <h1 class="display-6"><a href="home">Dmareapps</a></h1>
         <hr class="my-3">
         <nav class="navbar navbar-expand-lg ">          
             <div class="collapse navbar-collapse " id="navbarNav">

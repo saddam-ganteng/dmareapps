@@ -34,7 +34,7 @@ Route::get('portofolio', function () {
 });
 
 Route::get('home', function () {
-    return view('home/portofolio');
+    return view('home');
 });
 
 
