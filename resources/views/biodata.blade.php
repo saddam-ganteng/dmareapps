@@ -51,7 +51,7 @@
         <div class="col-sm-8">
           <p>
             <li class="font-weight-bold">Tentang Saya</li>
-            Saya
+            Saya adalah siswa tahun ke 3 di sekolah swasta SMK Taruna Bhakti 
             <hr>
             <li class="font-weight-bold">Pendidikan</li>
             Sekolah Dasar : SDN Sukatani 4 <br>
