@@ -31,7 +31,7 @@
         </nav>
     </div>
 
-    <div class="container p-4 " style="background-color: white">
+    <div class="container p-4 text-monospace" style="background-color: white">
         <div class="col-md-18">
 
 
@@ -80,7 +80,7 @@
               </div>
 
               <div class="card">
-                <img src="{{ ('assets/img/serti.png') }}" class="card-img-top" alt="...">
+                <img src="{{ ('assets/img/kunjin.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text"></p>
                 </div>

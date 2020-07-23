@@ -28,7 +28,7 @@
         </nav>
     </div>
 
-    <div class="container p-4" style="background-color: white">
+    <div class="container p-4 text-monospace" style="background-color: white">
         <img src="{{ ('assets/img/fotodiri.jpeg') }}" width="400px" class="rounded mx-auto d-block" alt="...">
         <h2 class="mt-4" style="text-align:center;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
@@ -36,9 +36,9 @@
         </p>   
          <div class="m-5" style="text-align:center;">
             <h3 class="">Kontak Saya</h3>
-            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="#">Git Hub </a>
-            <img src="{{ ('assets/icon/tele.png') }}" width="25px">  <a href="#">Telegram</a>
-            <img src="{{ ('assets/icon/fb.png') }}" width="25px">  <a href="#">Facebook</a>
+            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="https://github.com/saddam-der" target='_blank'>Git Hub </a>
+            <img src="{{ ('assets/icon/tele.png') }}" width="25px">  <a href="https://t.me/saddam_der" target='_blank'>Telegram</a>
+            <img src="{{ ('assets/icon/fb.png') }}" width="25px">  <a href="https://www.facebook.com/saddam.dermawan" target='_blank'>Facebook</a>
         </div>
     </div>
    

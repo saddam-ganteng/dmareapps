@@ -31,7 +31,7 @@
     <div class="container p-4" style="background-color: white">
       <div class="row text-monospace">
         <div class="col-sm-4">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded ml-3" width="90%;" alt="..." >
+          <img src="{{ ('assets/img/fotodiri.jpeg') }}" class="rounded ml-3" width="90%;" alt="..." >
           <h3 class="" style="text-align:center;">Saddam Dermawan</h3>
           <hr>
           <p>
@@ -52,6 +52,17 @@
           <p>
             <li class="font-weight-bold">Tentang Saya</li>
             Saya
+            <hr>
+            <li class="font-weight-bold">Pendidikan</li>
+            Sekolah Dasar : SDN Sukatani 4 <br>
+            Lulus Tahun : 2016 <br>
+            Sekolah Menengah Pertama : SMP Darul Ulum <br>
+            Lulus Tahun : 2019 <br>
+            Sekolah Menengah Kejuruan : SMK Taruba Bhakti <br>
+            Lulus Tahun : 2021 <br>
+            <hr>
+            <li class="font-weight-bold">Pengalaman Kerja</li>
+
           </p>
         </div>
       </div>    
