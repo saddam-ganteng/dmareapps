@@ -29,29 +29,38 @@
     </div>
 
     <div class="container p-4" style="background-color: white">
-        
-        
-        
-      
-      <div class="row">
+      <div class="row text-monospace">
         <div class="col-sm-4">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkVU7VPdhuMSNCYcHrBhCcDLCweVxz_vukg&usqp=CAU" class="rounded ml-3" width="90%;" alt="..." >
           <h3 class="" style="text-align:center;">Saddam Dermawan</h3>
           <hr>
           <p>
-            Personal 
+          <li class="font-weight-bold">Personal</li> 
+            Nama : Saddam Dermawan <br>
+            Tanggal Lahir : 28 Oktober 2002 <br>
+            Kewarganegaraan : Indonesia <br>
+            Bahasa : Indonesia, Arab, Jepang, Inggris <br>
+            Jenis kelamin : Laki Laki <br>
+            Hubungan : Single <br>
+            <hr>
+          <li class="font-weight-bold">Contact</li>
+            No HP : 0895-3745-95306 <br>
+            Email : saddam.dermawan@gmail.com <br>
           </p>
         </div>
-        <div class="col-sm-8">col-sm-4
-
+        <div class="col-sm-8">
+          <p>
+            <li class="font-weight-bold">Tentang Saya</li>
+            Saya
+          </p>
         </div>
-      </div>
-        
-        
-        
-         
+      </div>    
     </div>
-   
+    <div class="card mt-4">
+      <div class="card-header" style="text-align:center;">
+        &copy;dmare
+      </div>
+    </div>
 
     
 </body>
