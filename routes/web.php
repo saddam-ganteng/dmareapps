@@ -21,8 +21,8 @@ Route::get('kategori/{kategori}/{judul}', function ($judul, $kategori) {
     return "Kategori : $kategori, Title : $judul";
 });
 
-Route::get('/about', function () {
-    return view('about');
+Route::get('/biodata', function () {
+    return view('biodata');
 });
 
 Route::get('/experience', function () {
