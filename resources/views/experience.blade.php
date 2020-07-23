@@ -12,7 +12,7 @@
 
 <body style=" background-color: #e5e5e5;">
     <div class="jumbotron pt-4 pb-4">
-        <h1 class="display-6"><a href="home">Dmareapps</a></h1>
+        <h1 class="display-6"><a href="\home">Dmareapps</a></h1>
         <hr class="my-3">
         <nav class="navbar navbar-expand-lg ">
             <div class="collapse navbar-collapse " id="navbarNav">
@@ -73,14 +73,14 @@
             </div>
             <div class="card-deck mt-5" style="width: 650px;">
             <div class="card">
-                <img src="{{ ('assets/img/serti.png') }}" class="card-img-top" alt="...">
+                <img src="http://localhost:8000/assets/img/serti.png" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Sertifikat dicoding kelas Dasar Pemrograman Web</p>
                 </div>
               </div>
 
               <div class="card">
-                <img src="{{ ('assets/img/kunjin.png') }}" class="card-img-top" alt="...">
+                <img src="http://localhost:8000/assets/img/kunjin.png" class="card-img-top" alt="...">
                 <div class="card-body">
                   <p class="card-text">Kunjungan Industri di PT Spasi</p>
                 </div>

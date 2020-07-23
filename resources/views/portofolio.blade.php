@@ -9,7 +9,7 @@
 </head>
 <body style=" background-color: #e5e5e5;">
     <div class="jumbotron pt-4 pb-4">
-      <h1 class="display-6"><a href="home">Dmareapps</a></h1>
+      <h1 class="display-6"><a href="\home">Dmareapps</a></h1>
         <hr class="my-3">
         <nav class="navbar navbar-expand-lg ">          
             <div class="collapse navbar-collapse " id="navbarNav">
@@ -29,16 +29,17 @@
     </div>
 
     <div class="container p-4 text-monospace" style="background-color: white">
-        <img src="{{ ('assets/img/fotodiri.jpeg') }}" width="400px" class="rounded mx-auto d-block" alt="...">
+        <img src="http://localhost:8000/assets/img/fotodiri.jpeg" width="400px" class="rounded mx-auto d-block" alt="...">
+        
         <h2 class="mt-4" style="text-align:center;">Saya Saddam Dermawan</h2>
         <p class="" style="text-align:center;">
             Sudah 2 tahun saya menjadi codel, <br>  Saya sudah bisa membuat CRUD dengan database MySQL <br> & dan Aplikasi CRUD Desktop <br> #HTML, #CSS, #Java, #Javascript, #PHP, #Photoshop
         </p>   
          <div class="m-5" style="text-align:center;">
             <h3 class="">Kontak Saya</h3>
-            <img src="{{ ('assets/icon/github.png') }}" width="25px">  <a href="https://github.com/saddam-der" target='_blank'>Git Hub </a>
-            <img src="{{ ('assets/icon/tele.png') }}" width="25px">  <a href="https://t.me/saddam_der" target='_blank'>Telegram</a>
-            <img src="{{ ('assets/icon/fb.png') }}" width="25px">  <a href="https://www.facebook.com/saddam.dermawan" target='_blank'>Facebook</a>
+            <img src="http://localhost:8000/assets/icon/github.png" width="25px">  <a href="https://github.com/saddam-der" target='_blank'>Git Hub </a>
+            <img src="http://localhost:8000/assets/icon/tele.png" width="25px">  <a href="https://t.me/saddam_der" target='_blank'>Telegram</a>
+            <img src="http://localhost:8000/assets/icon/fb.png" width="25px">  <a href="https://www.facebook.com/saddam.dermawan" target='_blank'>Facebook</a>
         </div>
     </div>
    

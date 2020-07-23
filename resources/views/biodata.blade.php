@@ -9,7 +9,7 @@
 </head>
 <body style=" background-color: #e5e5e5;">
     <div class="jumbotron pt-4 pb-4">
-      <h1 class="display-6"><a href="home">Dmareapps</a></h1>
+      <h1 class="display-6"><a href="\home">Dmareapps</a></h1>
         <hr class="my-3">
         <nav class="navbar navbar-expand-lg ">          
             <div class="collapse navbar-collapse " id="navbarNav">
@@ -31,7 +31,7 @@
     <div class="container p-4" style="background-color: white">
       <div class="row text-monospace">
         <div class="col-sm-4">
-          <img src="{{ ('assets/img/fotodiri.jpeg') }}" class="rounded ml-3" width="90%;" alt="..." >
+          <img src="http://localhost:8000/assets/img/fotodiri.jpeg" class="rounded ml-3" width="90%;" alt="..." >
           <h3 class="" style="text-align:center;">Saddam Dermawan</h3>
           <hr>
           <p>

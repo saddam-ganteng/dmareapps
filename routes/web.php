@@ -21,15 +21,15 @@ Route::get('kategori/{kategori}/{judul}', function ($judul, $kategori) {
     return "Kategori : $kategori, Title : $judul";
 });
 
-Route::get('biodata', function () {
+Route::get('home/biodata', function () {
     return view('biodata');
 });
 
-Route::get('experience', function () {
+Route::get('home/experience', function () {
     return view('experience');
 });
 
-Route::get('portofolio', function () {
+Route::get('home/portofolio', function () {
     return view('portofolio');
 });
 
