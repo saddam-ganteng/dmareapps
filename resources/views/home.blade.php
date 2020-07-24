@@ -32,7 +32,7 @@
     </div>
 
     <div class="container p-4 text-monospace" style="background-color: white">
-        <center><img src="{{ ('assets/img/under2.png') }}"></center>
+        <center> <img src="{{ ('assets/img/under2.png') }}"> </center>
 
         
     </div>
@@ -40,7 +40,7 @@
         <div class="card-header" style="text-align:center;">
           &copy;dmare
         </div>
-      </div>
+    </div>
 
 
 </body>

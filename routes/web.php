@@ -37,4 +37,8 @@ Route::get('home', function () {
     return view('home');
 });
 
+Route::fallback(function(){
+   return "Maaf Halaman Tidak Dapat Di Temukan" ;
+});
+
 
