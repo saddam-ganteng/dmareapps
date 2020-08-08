@@ -37,6 +37,11 @@ Route::get('home', function () {
     return view('home');
 });
 
+Route::get('demo', function () {
+    return view('exp2');
+});
+
+
 Route::fallback(function(){
    return "Maaf Halaman Tidak Dapat Di Temukan" ;
 });

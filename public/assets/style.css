@@ -1,0 +1,13 @@
+.card-img-top {
+    height: 70%;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+}
+
+.card {
+    box-shadow: 2px 3px 18px #000000;
+}
